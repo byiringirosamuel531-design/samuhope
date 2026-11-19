@@ -1,0 +1,6 @@
+{
+  "name": "KigaliRelay",
+  "description": "Rwandan SMS and voice messaging platform for standard feature phones with user accounts and admin activity management.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
